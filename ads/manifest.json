@@ -2,6 +2,15 @@
   "version": 1,
   "videos": [
     {
+      "id": "02-chores-earn-points",
+      "title": "Chores that earn points",
+      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/02-chores-earn-points.ogv",
+      "tiktok": "https://tiktok.com/@longtable.labs.llc/video/7698759012120071455",
+      "posted": "2026-10-20",
+      "sha256": "162e085468b46460829906bb3a142fcf0d496507542369f9aa6cb52ec6e8836b",
+      "bytes": 2259009
+    },
+    {
       "id": "01-snap-a-schedule",
       "title": "Snap a schedule",
       "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/01-snap-a-schedule.ogv",
