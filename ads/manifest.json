@@ -2,15 +2,6 @@
   "version": 1,
   "videos": [
     {
-      "id": "99-rotation-test",
-      "title": "Rotation test (temporary)",
-      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/99-rotation-test.ogv",
-      "tiktok": "",
-      "posted": "2026-10-20",
-      "sha256": "602a325acaca086a0268ce9b14f4c86cdc14ee8b8622f5f210200abb486845e6",
-      "bytes": 755104
-    },
-    {
       "id": "02-chores-earn-points",
       "title": "Chores that earn points",
       "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/02-chores-earn-points.ogv",
