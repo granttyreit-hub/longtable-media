@@ -18,6 +18,15 @@
       "posted": "2026-10-19",
       "sha256": "fc98b1d0dd939d80a5a3ab27ef20913f6c292ffd55396606fc161a43652b1077",
       "bytes": 3276694
+    },
+    {
+      "id": "99-rotation-test",
+      "title": "Rotation test (temporary)",
+      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/99-rotation-test.ogv",
+      "tiktok": "",
+      "posted": "",
+      "sha256": "beff73a4c0c5f8aca5ebd5755e29f12d44ac70d853ac133a64ae2113a6c4638e",
+      "bytes": 755104
     }
   ]
 }
