@@ -2,6 +2,15 @@
   "version": 1,
   "videos": [
     {
+      "id": "03-shopping-lists",
+      "title": "Shopping lists",
+      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/03-shopping-lists.ogv",
+      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7699140045126536479",
+      "posted": "2026-10-21",
+      "sha256": "618c134f4832852cbeea49ecfc262fdf75ff4b76137cb42b7a52c7c2e01e0df1",
+      "bytes": 3371898
+    },
+    {
       "id": "02-chores-earn-points",
       "title": "Chores that earn points",
       "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/02-chores-earn-points.ogv",
