@@ -2,6 +2,15 @@
   "version": 1,
   "videos": [
     {
+      "id": "17-missed-it-school-pickup",
+      "title": "School pickup",
+      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/17-missed-it-school-pickup.ogv",
+      "tiktok": "",
+      "posted": "2026-10-26",
+      "sha256": "7556710ad5eb7ce45db1bf2db02b2749e9217144330762f689f6e32036caa988",
+      "bytes": 8218785
+    },
+    {
       "id": "15-missed-it-anniversary",
       "title": "The anniversary",
       "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/15-missed-it-anniversary.ogv",
