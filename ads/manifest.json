@@ -2,6 +2,15 @@
   "version": 1,
   "videos": [
     {
+      "id": "18-missed-it-permission-slip",
+      "title": "The permission slip",
+      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/18-missed-it-permission-slip.ogv",
+      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7701492682400615711",
+      "posted": "2026-10-27",
+      "sha256": "fe293cc37f9f785393093af86df01af2a1b0f9c1c27d8180bf5b4472c60e5159",
+      "bytes": 9787179
+    },
+    {
       "id": "17-missed-it-school-pickup",
       "title": "School pickup",
       "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/17-missed-it-school-pickup.ogv",
