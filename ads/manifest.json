@@ -2,6 +2,15 @@
   "version": 1,
   "videos": [
     {
+      "id": "19-missed-it-birthday-party",
+      "title": "19-missed-it-birthday-party",
+      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/19-missed-it-birthday-party.ogv",
+      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7701732192610782495",
+      "posted": "2026-10-28",
+      "sha256": "77266db5a853e63d4f26042530dbd62402e6a753203b96c573f34c31288dc3c4",
+      "bytes": 8123903
+    },
+    {
       "id": "18-missed-it-permission-slip",
       "title": "The permission slip",
       "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/18-missed-it-permission-slip.ogv",
