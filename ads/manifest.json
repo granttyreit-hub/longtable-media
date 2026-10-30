@@ -2,6 +2,15 @@
   "version": 1,
   "videos": [
     {
+      "id": "21-missed-it-trash-night",
+      "title": "21-missed-it-trash-night",
+      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/21-missed-it-trash-night.ogv",
+      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7702567532284218654",
+      "posted": "2026-10-30",
+      "sha256": "a54a45708d061bfcb70adaa42c341d9b8d70952359fef70ef73db16b815d9df7",
+      "bytes": 5312254
+    },
+    {
       "id": "20-missed-it-party-candles",
       "title": "20-missed-it-party-candles",
       "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/20-missed-it-party-candles.ogv",
