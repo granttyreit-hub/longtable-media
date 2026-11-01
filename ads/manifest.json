@@ -2,6 +2,15 @@
   "version": 1,
   "videos": [
     {
+      "id": "ad-2026-10-31-2-chore-invoice",
+      "title": "Chore invoice",
+      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-10-31-2-chore-invoice.ogv",
+      "tiktok": "",
+      "posted": "2026-10-31",
+      "sha256": "ed97dfba80a3647e1c6fc8a7328ed9e80c5e0a98337456b9355de4ea1a32e283",
+      "bytes": 4121552
+    },
+    {
       "id": "21-missed-it-trash-night",
       "title": "21-missed-it-trash-night",
       "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/21-missed-it-trash-night.ogv",
