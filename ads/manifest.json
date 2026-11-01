@@ -2,6 +2,15 @@
   "version": 1,
   "videos": [
     {
+      "id": "ad-2026-10-31-4-grandma-turkey",
+      "title": "Grandma turkey",
+      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-10-31-4-grandma-turkey.ogv",
+      "tiktok": "",
+      "posted": "2026-10-31",
+      "sha256": "8c36c50b427b7721594cd50fd11c07a0af15011338ade36f073cea256204caf9",
+      "bytes": 4565142
+    },
+    {
       "id": "ad-2026-10-31-2-chore-invoice",
       "title": "Chore invoice",
       "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-10-31-2-chore-invoice.ogv",
