@@ -2,6 +2,15 @@
   "version": 1,
   "videos": [
     {
+      "id": "ad-2026-11-01-3-show-and-tell",
+      "title": "Show and tell",
+      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-01-3-show-and-tell.ogv",
+      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7703338244552920351",
+      "posted": "2026-11-01",
+      "sha256": "b75a87f7e022c5bdcf92a3e174c0cd109e40cb56039ab269d5e8500639d7cd2f",
+      "bytes": 4047734
+    },
+    {
       "id": "ad-2026-11-01-2-dog-ate-november",
       "title": "Dog ate November",
       "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-01-2-dog-ate-november.ogv",
