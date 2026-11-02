@@ -2,6 +2,15 @@
   "version": 1,
   "videos": [
     {
+      "id": "ad-2026-11-01-4-no-bedtime",
+      "title": "No bedtime",
+      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-01-4-no-bedtime.ogv",
+      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7703338234331368734",
+      "posted": "2026-11-01",
+      "sha256": "2d69ca477504f6bf24db012b6beb822d0f80c619b4efaee5f35cef615b629144",
+      "bytes": 3896255
+    },
+    {
       "id": "ad-2026-11-01-3-show-and-tell",
       "title": "Show and tell",
       "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-01-3-show-and-tell.ogv",
