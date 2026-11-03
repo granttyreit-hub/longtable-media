@@ -2,6 +2,15 @@
   "version": 1,
   "videos": [
     {
+      "id": "ad-2026-11-02-1-cat-tuesday",
+      "title": "Cat Tuesday",
+      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-02-1-cat-tuesday.ogv",
+      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7703650132339838238",
+      "posted": "2026-11-02",
+      "sha256": "1b43f6d4d5d8808f0edfd0b66fdce26a01b0ace1f13a7eef651332f46be3d96e",
+      "bytes": 3899210
+    },
+    {
       "id": "ad-2026-11-01-5-milk",
       "title": "Milk",
       "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-01-5-milk.ogv",
