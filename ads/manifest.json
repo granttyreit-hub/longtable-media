@@ -2,6 +2,15 @@
   "version": 1,
   "videos": [
     {
+      "id": "ad-2026-11-02-3-wrong-saturday",
+      "title": "Wrong Saturday",
+      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-02-3-wrong-saturday.ogv",
+      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7703650216804748574",
+      "posted": "2026-11-02",
+      "sha256": "5d8e696813e0f97d6da7bfde96ef84532a698f5c115f4d016740f7c730f99951",
+      "bytes": 3776446
+    },
+    {
       "id": "ad-2026-11-02-2-one-shoe",
       "title": "One shoe",
       "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-02-2-one-shoe.ogv",
