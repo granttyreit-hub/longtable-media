@@ -2,6 +2,15 @@
   "version": 1,
   "videos": [
     {
+      "id": "ad-2026-11-02-4-crazy-hair",
+      "title": "Crazy hair",
+      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-02-4-crazy-hair.ogv",
+      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7703650311918963998",
+      "posted": "2026-11-02",
+      "sha256": "b1f67e7ff613b06acc9d693ca23317e7d26f0046705750d3b1d5fe3b00969018",
+      "bytes": 4768153
+    },
+    {
       "id": "ad-2026-11-02-3-wrong-saturday",
       "title": "Wrong Saturday",
       "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-02-3-wrong-saturday.ogv",
