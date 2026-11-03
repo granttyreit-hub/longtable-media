@@ -2,6 +2,15 @@
   "version": 1,
   "videos": [
     {
+      "id": "ad-2026-11-02-5-two-cars",
+      "title": "Two cars",
+      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-02-5-two-cars.ogv",
+      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7703650294382497055",
+      "posted": "2026-11-02",
+      "sha256": "10641680a3859e1058e69db18d647078320105e1f50887de0e592ceffadaca67",
+      "bytes": 3973667
+    },
+    {
       "id": "ad-2026-11-02-4-crazy-hair",
       "title": "Crazy hair",
       "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-02-4-crazy-hair.ogv",
