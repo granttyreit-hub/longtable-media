@@ -2,6 +2,15 @@
   "version": 1,
   "videos": [
     {
+      "id": "ad-2026-11-02-2-one-shoe",
+      "title": "One shoe",
+      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-02-2-one-shoe.ogv",
+      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7703650246949080351",
+      "posted": "2026-11-02",
+      "sha256": "4358fe1cad9ab987ac70ad21326990ad197c017f6f178d25d53c9529a80ef126",
+      "bytes": 4186194
+    },
+    {
       "id": "ad-2026-11-02-1-cat-tuesday",
       "title": "Cat Tuesday",
       "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-02-1-cat-tuesday.ogv",
