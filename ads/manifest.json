@@ -2,6 +2,15 @@
   "version": 1,
   "videos": [
     {
+      "id": "ad-2026-11-03-3-three-cakes",
+      "title": "Three cakes",
+      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-03-3-three-cakes.ogv",
+      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7704000799688477983",
+      "posted": "2026-11-03",
+      "sha256": "c3269a10f23f8b37aeee5e32ce5eb0c3bee8af09a2423e7680f4253e1a0f9105",
+      "bytes": 4472354
+    },
+    {
       "id": "ad-2026-11-03-2-hamster-form",
       "title": "Hamster form",
       "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-03-2-hamster-form.ogv",
@@ -261,15 +270,6 @@
       "posted": "2026-10-20",
       "sha256": "162e085468b46460829906bb3a142fcf0d496507542369f9aa6cb52ec6e8836b",
       "bytes": 2259009
-    },
-    {
-      "id": "01-snap-a-schedule",
-      "title": "Snap a schedule",
-      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/01-snap-a-schedule.ogv",
-      "tiktok": "https://tiktok.com/@longtable.labs.llc/video/7698553108707790110",
-      "posted": "2026-10-19",
-      "sha256": "fc98b1d0dd939d80a5a3ab27ef20913f6c292ffd55396606fc161a43652b1077",
-      "bytes": 3276694
     }
   ]
 }
