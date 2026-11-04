@@ -2,6 +2,15 @@
   "version": 1,
   "videos": [
     {
+      "id": "ad-2026-11-03-1-dog-bath",
+      "title": "Dog bath",
+      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-03-1-dog-bath.ogv",
+      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7704000757560773918",
+      "posted": "2026-11-03",
+      "sha256": "27d996a87a3cd379401722a95ea17e1813aaeed6d6443f12f9c9562d91bfdfde",
+      "bytes": 4115537
+    },
+    {
       "id": "ad-2026-11-02-5-two-cars",
       "title": "Two cars",
       "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-02-5-two-cars.ogv",
