@@ -2,6 +2,15 @@
   "version": 1,
   "videos": [
     {
+      "id": "ad-2026-11-03-2-hamster-form",
+      "title": "Hamster form",
+      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-03-2-hamster-form.ogv",
+      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7704000791102721310",
+      "posted": "2026-11-03",
+      "sha256": "003c552354556e6cb64383df8f4b543c3b02bcafa3cb574fe001c8175575761e",
+      "bytes": 3677305
+    },
+    {
       "id": "ad-2026-11-03-1-dog-bath",
       "title": "Dog bath",
       "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-03-1-dog-bath.ogv",
