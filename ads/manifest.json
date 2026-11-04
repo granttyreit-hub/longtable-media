@@ -2,6 +2,15 @@
   "version": 1,
   "videos": [
     {
+      "id": "ad-2026-11-03-5-cupcakes",
+      "title": "Cupcakes",
+      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-03-5-cupcakes.ogv",
+      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7704000891602455838",
+      "posted": "2026-11-03",
+      "sha256": "1207560869b22f97aa5b7b4526c862ca8cb4fa9cb9f90de1755182ebc2854e74",
+      "bytes": 3929858
+    },
+    {
       "id": "ad-2026-11-03-4-parrot-car",
       "title": "Parrot car",
       "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-03-4-parrot-car.ogv",
@@ -261,15 +270,6 @@
       "posted": "2026-10-23",
       "sha256": "c194b0299673fb4c029e442f1c6c44de0706eac1e53d0772213c0ec8bc1d2575",
       "bytes": 7695635
-    },
-    {
-      "id": "03-shopping-lists",
-      "title": "Shopping lists",
-      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/03-shopping-lists.ogv",
-      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7699140045126536479",
-      "posted": "2026-10-21",
-      "sha256": "618c134f4832852cbeea49ecfc262fdf75ff4b76137cb42b7a52c7c2e01e0df1",
-      "bytes": 3371898
     }
   ]
 }
