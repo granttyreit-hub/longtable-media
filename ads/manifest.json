@@ -2,6 +2,15 @@
   "version": 1,
   "videos": [
     {
+      "id": "ad-2026-11-03-4-parrot-car",
+      "title": "Parrot car",
+      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-03-4-parrot-car.ogv",
+      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7704000816750939423",
+      "posted": "2026-11-03",
+      "sha256": "a023ab7a81a16dd804847d2d5ab3a75c9a2a218c5015806d6aed5711ea202776",
+      "bytes": 3763657
+    },
+    {
       "id": "ad-2026-11-03-3-three-cakes",
       "title": "Three cakes",
       "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-03-3-three-cakes.ogv",
@@ -261,15 +270,6 @@
       "posted": "2026-10-21",
       "sha256": "618c134f4832852cbeea49ecfc262fdf75ff4b76137cb42b7a52c7c2e01e0df1",
       "bytes": 3371898
-    },
-    {
-      "id": "02-chores-earn-points",
-      "title": "Chores that earn points",
-      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/02-chores-earn-points.ogv",
-      "tiktok": "https://tiktok.com/@longtable.labs.llc/video/7698759012120071455",
-      "posted": "2026-10-20",
-      "sha256": "162e085468b46460829906bb3a142fcf0d496507542369f9aa6cb52ec6e8836b",
-      "bytes": 2259009
     }
   ]
 }
