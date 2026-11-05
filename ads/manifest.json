@@ -2,6 +2,15 @@
   "version": 1,
   "videos": [
     {
+      "id": "ad-2026-11-04-3-library-board",
+      "title": "Library board",
+      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-04-3-library-board.ogv",
+      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7704503892997868831",
+      "posted": "2026-11-04",
+      "sha256": "734070eb5b25566914ef413b0b1323f50aa7fb78129c2e5825562d470bff0911",
+      "bytes": 6965100
+    },
+    {
       "id": "ad-2026-11-04-2-church-board",
       "title": "Church board",
       "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-04-2-church-board.ogv",
@@ -261,15 +270,6 @@
       "posted": "2026-10-26",
       "sha256": "7556710ad5eb7ce45db1bf2db02b2749e9217144330762f689f6e32036caa988",
       "bytes": 8218785
-    },
-    {
-      "id": "16-missed-it-dog-food",
-      "title": "The dog food",
-      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/16-missed-it-dog-food.ogv",
-      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7701002850456980767",
-      "posted": "2026-10-26",
-      "sha256": "8648dde327a42467d3ba388ff44e48e5db9878c90deffe5dd7e8a8114655fb09",
-      "bytes": 8757712
     }
   ]
 }
