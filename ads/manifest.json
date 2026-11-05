@@ -2,6 +2,15 @@
   "version": 1,
   "videos": [
     {
+      "id": "ad-2026-11-04-1-school-board",
+      "title": "School board",
+      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-04-1-school-board.ogv",
+      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7704503144054607135",
+      "posted": "2026-11-04",
+      "sha256": "7e472e6c4f9f10e1d69bda2d6547d48c9a2904d0be4f79dcf692e400462d615f",
+      "bytes": 5980596
+    },
+    {
       "id": "ad-2026-11-03-5-cupcakes",
       "title": "Cupcakes",
       "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-03-5-cupcakes.ogv",
@@ -261,15 +270,6 @@
       "posted": "2026-10-24",
       "sha256": "74ce0ed2241a6fde5684c8081fcdcac9180ce792f7ac0499ecd503f82fa505d7",
       "bytes": 7935009
-    },
-    {
-      "id": "14-missed-it-recital",
-      "title": "Grandma's recital",
-      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/14-missed-it-recital.ogv",
-      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7700008888199957791",
-      "posted": "2026-10-23",
-      "sha256": "c194b0299673fb4c029e442f1c6c44de0706eac1e53d0772213c0ec8bc1d2575",
-      "bytes": 7695635
     }
   ]
 }
