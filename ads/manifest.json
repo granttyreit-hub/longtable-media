@@ -2,6 +2,15 @@
   "version": 1,
   "videos": [
     {
+      "id": "ad-2026-11-04-4-work-board",
+      "title": "Work board",
+      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-04-4-work-board.ogv",
+      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7704504240357559582",
+      "posted": "2026-11-04",
+      "sha256": "ec0365ac365659790f685bf6c6729dffa1bb724415275beb1104cb505739b410",
+      "bytes": 6147589
+    },
+    {
       "id": "ad-2026-11-04-3-library-board",
       "title": "Library board",
       "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-04-3-library-board.ogv",
@@ -261,15 +270,6 @@
       "posted": "2026-10-27",
       "sha256": "fe293cc37f9f785393093af86df01af2a1b0f9c1c27d8180bf5b4472c60e5159",
       "bytes": 9787179
-    },
-    {
-      "id": "17-missed-it-school-pickup",
-      "title": "School pickup",
-      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/17-missed-it-school-pickup.ogv",
-      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7701001988795911454",
-      "posted": "2026-10-26",
-      "sha256": "7556710ad5eb7ce45db1bf2db02b2749e9217144330762f689f6e32036caa988",
-      "bytes": 8218785
     }
   ]
 }
