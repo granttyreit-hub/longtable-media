@@ -2,6 +2,15 @@
   "version": 1,
   "videos": [
     {
+      "id": "ad-2026-11-04-2-church-board",
+      "title": "Church board",
+      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-04-2-church-board.ogv",
+      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7704503544010771742",
+      "posted": "2026-11-04",
+      "sha256": "136e641ba9ed375094889d755d3b0ffa12b82e4dfe3e55c9801035874dd72fe8",
+      "bytes": 5957257
+    },
+    {
       "id": "ad-2026-11-04-1-school-board",
       "title": "School board",
       "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-04-1-school-board.ogv",
@@ -261,15 +270,6 @@
       "posted": "2026-10-26",
       "sha256": "8648dde327a42467d3ba388ff44e48e5db9878c90deffe5dd7e8a8114655fb09",
       "bytes": 8757712
-    },
-    {
-      "id": "15-missed-it-anniversary",
-      "title": "The anniversary",
-      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/15-missed-it-anniversary.ogv",
-      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7700313107767332127",
-      "posted": "2026-10-24",
-      "sha256": "74ce0ed2241a6fde5684c8081fcdcac9180ce792f7ac0499ecd503f82fa505d7",
-      "bytes": 7935009
     }
   ]
 }
