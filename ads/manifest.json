@@ -2,6 +2,15 @@
   "version": 1,
   "videos": [
     {
+      "id": "ad-2026-11-05-2-soccer-playoff",
+      "title": "Soccer playoff",
+      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-05-2-soccer-playoff.ogv",
+      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7704819957753728287",
+      "posted": "2026-11-05",
+      "sha256": "258f9d82835a0d4148c0b19e07277c26282d3f5ebde8355682c664b9f3248984",
+      "bytes": 5778723
+    },
+    {
       "id": "ad-2026-11-05-1-grandparents-day",
       "title": "Grandparents day",
       "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-05-1-grandparents-day.ogv",
@@ -261,15 +270,6 @@
       "posted": "2026-10-30",
       "sha256": "a54a45708d061bfcb70adaa42c341d9b8d70952359fef70ef73db16b815d9df7",
       "bytes": 5312254
-    },
-    {
-      "id": "20-missed-it-party-candles",
-      "title": "20-missed-it-party-candles",
-      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/20-missed-it-party-candles.ogv",
-      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7702132671027121439",
-      "posted": "2026-10-29",
-      "sha256": "1acaf8801ffe42edf25be884c7f873ec40f2a77c0133c3cbfa8cdeccfbd26c8e",
-      "bytes": 7420675
     }
   ]
 }
