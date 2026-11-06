@@ -2,6 +2,15 @@
   "version": 1,
   "videos": [
     {
+      "id": "ad-2026-11-05-5-rec-centre",
+      "title": "Rec centre",
+      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-05-5-rec-centre.ogv",
+      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7704821142305000734",
+      "posted": "2026-11-05",
+      "sha256": "c9593e5ec21bb3ec0c014659a994c1901c7ff7dc3add106d7361cd1dc94b9bb9",
+      "bytes": 5483040
+    },
+    {
       "id": "ad-2026-11-05-4-piano-recital",
       "title": "Piano recital",
       "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-05-4-piano-recital.ogv",
@@ -261,15 +270,6 @@
       "posted": "2026-10-30",
       "sha256": "5b31031e4f5d9cc97632e1a5c9d421d1adbdb07163f913805c7b9becff99c961",
       "bytes": 4230977
-    },
-    {
-      "id": "ad-2026-10-30-2-dog-knows",
-      "title": "Dog knows",
-      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-10-30-2-dog-knows.ogv",
-      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7702571734658043167",
-      "posted": "2026-10-30",
-      "sha256": "b62992ce85777decbb1eb690a446cc5e31131b059629d79be0e0e0d78e3e996a",
-      "bytes": 5151358
     }
   ]
 }
