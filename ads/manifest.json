@@ -2,6 +2,15 @@
   "version": 1,
   "videos": [
     {
+      "id": "ad-2026-11-05-3-dance-studio",
+      "title": "Dance studio",
+      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-05-3-dance-studio.ogv",
+      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7704820351628217630",
+      "posted": "2026-11-05",
+      "sha256": "5fd47b954b4eca85bf5d1f8bc520a32133285d857f39d88bf300d34b527eb4e2",
+      "bytes": 5542422
+    },
+    {
       "id": "ad-2026-11-05-2-soccer-playoff",
       "title": "Soccer playoff",
       "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-05-2-soccer-playoff.ogv",
@@ -261,15 +270,6 @@
       "posted": "2026-10-30",
       "sha256": "fd1d5fd361505fa55a9fcba2ece7a3b815222aaeef9a62c0c86af7d9a2d7c0a3",
       "bytes": 4879509
-    },
-    {
-      "id": "21-missed-it-trash-night",
-      "title": "21-missed-it-trash-night",
-      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/21-missed-it-trash-night.ogv",
-      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7702567532284218654",
-      "posted": "2026-10-30",
-      "sha256": "a54a45708d061bfcb70adaa42c341d9b8d70952359fef70ef73db16b815d9df7",
-      "bytes": 5312254
     }
   ]
 }
