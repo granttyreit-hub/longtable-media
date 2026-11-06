@@ -2,6 +2,15 @@
   "version": 1,
   "videos": [
     {
+      "id": "ad-2026-11-05-1-grandparents-day",
+      "title": "Grandparents day",
+      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-05-1-grandparents-day.ogv",
+      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7704819440935832863",
+      "posted": "2026-11-05",
+      "sha256": "cb8b49326f8a3fc74c90335a2ff43e05a809498d17e9c4aeee5bc28fa7d4789e",
+      "bytes": 4948705
+    },
+    {
       "id": "ad-2026-11-04-5-swim-board",
       "title": "Swim board",
       "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-04-5-swim-board.ogv",
@@ -261,15 +270,6 @@
       "posted": "2026-10-29",
       "sha256": "1acaf8801ffe42edf25be884c7f873ec40f2a77c0133c3cbfa8cdeccfbd26c8e",
       "bytes": 7420675
-    },
-    {
-      "id": "19-missed-it-birthday-party",
-      "title": "19-missed-it-birthday-party",
-      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/19-missed-it-birthday-party.ogv",
-      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7701732192610782495",
-      "posted": "2026-10-28",
-      "sha256": "77266db5a853e63d4f26042530dbd62402e6a753203b96c573f34c31288dc3c4",
-      "bytes": 8123903
     }
   ]
 }
