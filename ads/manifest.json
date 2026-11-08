@@ -2,6 +2,15 @@
   "version": 1,
   "videos": [
     {
+      "id": "ad-2026-11-07-2-forty-minutes",
+      "title": "Grandpa lives 40 minutes away. He hasn't missed a game.",
+      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-07-2-forty-minutes.ogv",
+      "tiktok": "https://www.tiktok.com/@cadentfamily/video/7705452391071583519",
+      "posted": "2026-11-07",
+      "sha256": "f84efb35315f1d798e24098f8c308e9d1cc631d487ab87970d4c29c0f5733d45",
+      "bytes": 3858875
+    },
+    {
       "id": "ad-2026-11-07-1-twelve-chores",
       "title": "12 chores before breakfast. Then she asked for a puppy.",
       "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-07-1-twelve-chores.ogv",
@@ -261,15 +270,6 @@
       "posted": "2026-10-31",
       "sha256": "ec086be3eb7c8bf7b806b295b3046a5132f333c48229c25e792c26a5f3503e0a",
       "bytes": 4236764
-    },
-    {
-      "id": "ad-2026-10-30-5-who-has-pickup",
-      "title": "Who has pickup",
-      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-10-30-5-who-has-pickup.ogv",
-      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7702572726841609502",
-      "posted": "2026-10-30",
-      "sha256": "e19ca6feabcf18187f334e9fddf7b31e8e18cbe60832cc59d0ffcf225b2fb28e",
-      "bytes": 4106019
     }
   ]
 }
