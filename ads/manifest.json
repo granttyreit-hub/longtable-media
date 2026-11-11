@@ -2,6 +2,15 @@
   "version": 1,
   "videos": [
     {
+      "id": "ad-2026-11-10-1-three-jars",
+      "title": "3 people went shopping. We now own 3 jars of peanut butter.",
+      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-10-1-three-jars.ogv",
+      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7706619731221974303",
+      "posted": "2026-11-10",
+      "sha256": "9d451227573f8404bd257bb073bf4b426778abf8cbb6b575c457d348f751f955",
+      "bytes": 4227226
+    },
+    {
       "id": "ad-2026-11-07-2-forty-minutes",
       "title": "Grandpa lives 40 minutes away. He hasn't missed a game.",
       "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-07-2-forty-minutes.ogv",
@@ -261,15 +270,6 @@
       "posted": "2026-10-31",
       "sha256": "ed97dfba80a3647e1c6fc8a7328ed9e80c5e0a98337456b9355de4ea1a32e283",
       "bytes": 4121552
-    },
-    {
-      "id": "ad-2026-10-31-1-picture-day",
-      "title": "Picture day",
-      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-10-31-1-picture-day.ogv",
-      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7703024523045653790",
-      "posted": "2026-10-31",
-      "sha256": "ec086be3eb7c8bf7b806b295b3046a5132f333c48229c25e792c26a5f3503e0a",
-      "bytes": 4236764
     }
   ]
 }
