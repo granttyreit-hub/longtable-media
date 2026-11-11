@@ -2,6 +2,15 @@
   "version": 1,
   "videos": [
     {
+      "id": "ad-2026-11-10-2-one-calendar",
+      "title": "4 schedules. 1 fridge. 0 room left.",
+      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-10-2-one-calendar.ogv",
+      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7706620154146278687",
+      "posted": "2026-11-10",
+      "sha256": "494548c68070a03d2a38d43fe02c81195d56cc649278cda2d7c84b6926a40ca4",
+      "bytes": 4051520
+    },
+    {
       "id": "ad-2026-11-10-1-three-jars",
       "title": "3 people went shopping. We now own 3 jars of peanut butter.",
       "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-10-1-three-jars.ogv",
@@ -261,15 +270,6 @@
       "posted": "2026-10-31",
       "sha256": "8c36c50b427b7721594cd50fd11c07a0af15011338ade36f073cea256204caf9",
       "bytes": 4565142
-    },
-    {
-      "id": "ad-2026-10-31-2-chore-invoice",
-      "title": "Chore invoice",
-      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-10-31-2-chore-invoice.ogv",
-      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7702895633430072606",
-      "posted": "2026-10-31",
-      "sha256": "ed97dfba80a3647e1c6fc8a7328ed9e80c5e0a98337456b9355de4ea1a32e283",
-      "bytes": 4121552
     }
   ]
 }
