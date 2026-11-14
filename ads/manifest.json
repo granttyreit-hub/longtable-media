@@ -2,6 +2,15 @@
   "version": 1,
   "videos": [
     {
+      "id": "ad-2026-11-13-2-her-points",
+      "title": "She's 6. Her chores. Her points.",
+      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-13-2-her-points.ogv",
+      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7707722186919775518",
+      "posted": "2026-11-13",
+      "sha256": "3bab10e17c73e3c85f0b32b01b50a85e9f378fff0e7d833f469f82d248cf6947",
+      "bytes": 4036393
+    },
+    {
       "id": "ad-2026-11-13-1-seven-oh-five",
       "title": "7:05 AM. 4 people. 1 front door.",
       "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-13-1-seven-oh-five.ogv",
@@ -261,15 +270,6 @@
       "posted": "2026-11-02",
       "sha256": "1b43f6d4d5d8808f0edfd0b66fdce26a01b0ace1f13a7eef651332f46be3d96e",
       "bytes": 3899210
-    },
-    {
-      "id": "ad-2026-11-01-5-milk",
-      "title": "Milk",
-      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-01-5-milk.ogv",
-      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7703339139197832479",
-      "posted": "2026-11-01",
-      "sha256": "514daa1c0cc46983bb14cc0da388cec1017aac4ef87908c68e82d331be1aede4",
-      "bytes": 4018495
     }
   ]
 }
