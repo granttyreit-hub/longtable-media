@@ -2,6 +2,15 @@
   "version": 1,
   "videos": [
     {
+      "id": "ad-2026-11-13-1-seven-oh-five",
+      "title": "7:05 AM. 4 people. 1 front door.",
+      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-13-1-seven-oh-five.ogv",
+      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7707721872804203806",
+      "posted": "2026-11-13",
+      "sha256": "a9ad4cab8089fff113f14df79a3b414775fadde72f86ee495db17805dd49412a",
+      "bytes": 3747247
+    },
+    {
       "id": "ad-2026-11-12-2-just-us",
       "title": "14 years married. 0 nights out this year.",
       "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-12-2-just-us.ogv",
@@ -261,15 +270,6 @@
       "posted": "2026-11-01",
       "sha256": "514daa1c0cc46983bb14cc0da388cec1017aac4ef87908c68e82d331be1aede4",
       "bytes": 4018495
-    },
-    {
-      "id": "ad-2026-11-01-4-no-bedtime",
-      "title": "No bedtime",
-      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-01-4-no-bedtime.ogv",
-      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7703338234331368734",
-      "posted": "2026-11-01",
-      "sha256": "2d69ca477504f6bf24db012b6beb822d0f80c619b4efaee5f35cef615b629144",
-      "bytes": 3896255
     }
   ]
 }
