@@ -2,6 +2,15 @@
   "version": 1,
   "videos": [
     {
+      "id": "ad-2026-11-14-1-whats-next",
+      "title": "What's next",
+      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-14-1-whats-next.ogv",
+      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7708062878229630239",
+      "posted": "2026-11-14",
+      "sha256": "9216140d873450875981dfbab7861d1ecf26efd7daa540bfec66e3350ab27117",
+      "bytes": 3668186
+    },
+    {
       "id": "ad-2026-11-13-2-her-points",
       "title": "She's 6. Her chores. Her points.",
       "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-13-2-her-points.ogv",
@@ -261,15 +270,6 @@
       "posted": "2026-11-02",
       "sha256": "4358fe1cad9ab987ac70ad21326990ad197c017f6f178d25d53c9529a80ef126",
       "bytes": 4186194
-    },
-    {
-      "id": "ad-2026-11-02-1-cat-tuesday",
-      "title": "Cat Tuesday",
-      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-02-1-cat-tuesday.ogv",
-      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7703650132339838238",
-      "posted": "2026-11-02",
-      "sha256": "1b43f6d4d5d8808f0edfd0b66fdce26a01b0ace1f13a7eef651332f46be3d96e",
-      "bytes": 3899210
     }
   ]
 }
