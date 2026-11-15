@@ -2,6 +2,15 @@
   "version": 1,
   "videos": [
     {
+      "id": "ad-2026-11-14-2-abuela",
+      "title": "Abuela",
+      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-14-2-abuela.ogv",
+      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7708063222393261342",
+      "posted": "2026-11-14",
+      "sha256": "b48686b0c46e799d9870aa1c9050d1aa38873a12af9bd7d7f6a44fb3440c6f46",
+      "bytes": 4047838
+    },
+    {
       "id": "ad-2026-11-14-1-whats-next",
       "title": "What's next",
       "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-14-1-whats-next.ogv",
@@ -261,15 +270,6 @@
       "posted": "2026-11-02",
       "sha256": "5d8e696813e0f97d6da7bfde96ef84532a698f5c115f4d016740f7c730f99951",
       "bytes": 3776446
-    },
-    {
-      "id": "ad-2026-11-02-2-one-shoe",
-      "title": "One shoe",
-      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-02-2-one-shoe.ogv",
-      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7703650246949080351",
-      "posted": "2026-11-02",
-      "sha256": "4358fe1cad9ab987ac70ad21326990ad197c017f6f178d25d53c9529a80ef126",
-      "bytes": 4186194
     }
   ]
 }
