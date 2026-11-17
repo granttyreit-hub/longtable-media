@@ -2,6 +2,15 @@
   "version": 1,
   "videos": [
     {
+      "id": "ad-2026-11-16-1-turn-off-the-sun",
+      "title": "2 parents. 1 bed. 1 phone at full brightness.",
+      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-16-1-turn-off-the-sun.ogv",
+      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7708899640346807582",
+      "posted": "2026-11-16",
+      "sha256": "c2d2616eb7dace4a4728354bdedbef0972a52b3ab548f2526fa109817aa89fc0",
+      "bytes": 3270891
+    },
+    {
       "id": "ad-2026-11-15-2-just-the-games",
       "title": "15 things left this month. Grandpa wants 5 of them.",
       "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-15-2-just-the-games.ogv",
@@ -261,15 +270,6 @@
       "posted": "2026-11-03",
       "sha256": "27d996a87a3cd379401722a95ea17e1813aaeed6d6443f12f9c9562d91bfdfde",
       "bytes": 4115537
-    },
-    {
-      "id": "ad-2026-11-02-5-two-cars",
-      "title": "Two cars",
-      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-02-5-two-cars.ogv",
-      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7703650294382497055",
-      "posted": "2026-11-02",
-      "sha256": "10641680a3859e1058e69db18d647078320105e1f50887de0e592ceffadaca67",
-      "bytes": 3973667
     }
   ]
 }
