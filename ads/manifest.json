@@ -2,6 +2,15 @@
   "version": 1,
   "videos": [
     {
+      "id": "ad-2026-11-15-1-nice-try",
+      "title": "1 kitchen tablet. 1 kid. 0 points she did not earn.",
+      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-15-1-nice-try.ogv",
+      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7708901062459149599",
+      "posted": "2026-11-16",
+      "sha256": "9efc44615a4526ea7e9d333a39b842b06956778ca47fcf2061bc63e34c0f2b30",
+      "bytes": 3252159
+    },
+    {
       "id": "ad-2026-11-14-2-abuela",
       "title": "Abuela",
       "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-14-2-abuela.ogv",
@@ -261,15 +270,6 @@
       "posted": "2026-11-02",
       "sha256": "b1f67e7ff613b06acc9d693ca23317e7d26f0046705750d3b1d5fe3b00969018",
       "bytes": 4768153
-    },
-    {
-      "id": "ad-2026-11-02-3-wrong-saturday",
-      "title": "Wrong Saturday",
-      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-02-3-wrong-saturday.ogv",
-      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7703650216804748574",
-      "posted": "2026-11-02",
-      "sha256": "5d8e696813e0f97d6da7bfde96ef84532a698f5c115f4d016740f7c730f99951",
-      "bytes": 3776446
     }
   ]
 }
