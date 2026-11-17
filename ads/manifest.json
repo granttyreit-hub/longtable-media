@@ -2,6 +2,15 @@
   "version": 1,
   "videos": [
     {
+      "id": "ad-2026-11-16-2-one-apple",
+      "title": "Grandma needed 5 apples. He bought 1.",
+      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-16-2-one-apple.ogv",
+      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7708899440014216479",
+      "posted": "2026-11-16",
+      "sha256": "25b15b4ec91fbff3a62eb26fb3d7eda5740533f6c09b35088df5b4fb2fa98088",
+      "bytes": 3278549
+    },
+    {
       "id": "ad-2026-11-16-1-turn-off-the-sun",
       "title": "2 parents. 1 bed. 1 phone at full brightness.",
       "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-16-1-turn-off-the-sun.ogv",
@@ -261,15 +270,6 @@
       "posted": "2026-11-03",
       "sha256": "003c552354556e6cb64383df8f4b543c3b02bcafa3cb574fe001c8175575761e",
       "bytes": 3677305
-    },
-    {
-      "id": "ad-2026-11-03-1-dog-bath",
-      "title": "Dog bath",
-      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-03-1-dog-bath.ogv",
-      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7704000757560773918",
-      "posted": "2026-11-03",
-      "sha256": "27d996a87a3cd379401722a95ea17e1813aaeed6d6443f12f9c9562d91bfdfde",
-      "bytes": 4115537
     }
   ]
 }
