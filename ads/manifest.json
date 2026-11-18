@@ -2,6 +2,15 @@
   "version": 1,
   "videos": [
     {
+      "id": "ad-2026-11-17-1-probably",
+      "title": "7:40 AM. 'It's pajama day. Probably.'",
+      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-17-1-probably.ogv",
+      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7709266590423944462",
+      "posted": "2026-11-17",
+      "sha256": "cf6a9f7fe1a9f71618b08342d8c390943fdaa99babe2c47ace11aa8a2a1e2a1c",
+      "bytes": 3528817
+    },
+    {
       "id": "ad-2026-11-16-2-one-apple",
       "title": "Grandma needed 5 apples. He bought 1.",
       "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-16-2-one-apple.ogv",
@@ -261,15 +270,6 @@
       "posted": "2026-11-03",
       "sha256": "c3269a10f23f8b37aeee5e32ce5eb0c3bee8af09a2423e7680f4253e1a0f9105",
       "bytes": 4472354
-    },
-    {
-      "id": "ad-2026-11-03-2-hamster-form",
-      "title": "Hamster form",
-      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-03-2-hamster-form.ogv",
-      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7704000791102721310",
-      "posted": "2026-11-03",
-      "sha256": "003c552354556e6cb64383df8f4b543c3b02bcafa3cb574fe001c8175575761e",
-      "bytes": 3677305
     }
   ]
 }
