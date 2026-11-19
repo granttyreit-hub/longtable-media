@@ -2,6 +2,15 @@
   "version": 1,
   "videos": [
     {
+      "id": "ad-2026-11-18-1-front-row",
+      "title": "Grandma wants the front row.",
+      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-18-1-front-row.ogv",
+      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7709327889237380382",
+      "posted": "2026-11-18",
+      "sha256": "00180268a381ea2d504ce69fbb7a2e7fe0a83fcc8dc150dbe1ded8409fa0f38c",
+      "bytes": 6684484
+    },
+    {
       "id": "ad-2026-11-17-1-probably",
       "title": "7:40 AM. 'It's pajama day. Probably.'",
       "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-17-1-probably.ogv",
@@ -261,15 +270,6 @@
       "posted": "2026-11-03",
       "sha256": "a023ab7a81a16dd804847d2d5ab3a75c9a2a218c5015806d6aed5711ea202776",
       "bytes": 3763657
-    },
-    {
-      "id": "ad-2026-11-03-3-three-cakes",
-      "title": "Three cakes",
-      "ogv": "https://granttyreit-hub.github.io/longtable-media/ads/ad-2026-11-03-3-three-cakes.ogv",
-      "tiktok": "https://www.tiktok.com/@longtable.labs.llc/video/7704000799688477983",
-      "posted": "2026-11-03",
-      "sha256": "c3269a10f23f8b37aeee5e32ce5eb0c3bee8af09a2423e7680f4253e1a0f9105",
-      "bytes": 4472354
     }
   ]
 }
